@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Hi! I'm Heather, I'm a newer front end developer and I'm using [PluralSight](https://app.pluralsight.com/course-player?clipId=30e22ca4-fb6e-40e7-842a-94893fad8c1b) to expand my horizons!
+
+Join me in making this repo even more robust (after I have finished my tutorial, haa!)
+
 ## Available Scripts
 
 In the project directory, you can run:
